@@ -6,3 +6,6 @@ If you're looking for some daily motivation, wise insight, or just interested in
 
 Usage of the <a href = "https://github.com/lukePeavey/quotable?tab=readme-ov-file#get-random-quotes"> quotable.io </a>  API allows for quick and random quotes from some of the world's greatest thinkers.
 
+#### Demo
+
+https://github.com/bearwithtea/DailyQuote/assets/132114816/e818ec38-9d82-4990-94bc-55cfe6a133f1
